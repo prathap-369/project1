@@ -1,3 +1,3 @@
-servrt.port=9091;
+servrt.port=9092;
 
 servr.servrlt.conxt.path="lop"
